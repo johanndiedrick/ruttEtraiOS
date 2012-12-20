@@ -1,0 +1,298 @@
+TvideoGrabberExample
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Info.plist ofxiphone-Info.plist
+cCopyPlistFile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/ofxiphone-Info.plist ofxiphone-Info.plist
+cCpResource Project.xcconfig build/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfig
+cCpResource ../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig build/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig
+cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005092E5C000000000001EAFC0
+t1351804352
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005092E5C000000000003D2B80
+t1351804352
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005092E5C10000000000228FD0
+t1351804353
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005092E5C1000000000009C220
+t1351804353
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005092E5C20000000000085620
+t1351804354
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005092E5C30000000000020F20
+t1351804355
+s134944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005092E5C400000000003DCEF0
+t1351804356
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005092E5C300000000000015F7
+t1351804355
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005092E5C800000000000F5690
+t1351804360
+s1005200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000005092E5C90000000000030EB0
+t1351804361
+s200368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005092E5CA0000000000015400
+t1351804362
+s87040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005092E5CA00000000001D57A0
+t1351804362
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005092E5CB0000000000000E8D
+t1351804363
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005092E5CF0000000000AB3D60
+t1351804367
+s11222368
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+c000000005083449000000000000008A9
+t1350780048
+s2217
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/Project.xcconfig
+c00000000508344C200000000000001C4
+t1350780098
+s452
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app.dSYM
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Info.plist
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/PkgInfo
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfig
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/ofxiphone-Info.plist
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/videoGrabberExample.LinkFileList
+c000000005093FAFC00000000000001A1
+t1351875324
+s417
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh
+c000000005093FAFC0000000000000042
+t1351875324
+s66
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch
+c00000000508344C200000000000000B5
+t1350780098
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist
+c00000000508344C20000000000000445
+t1350780098
+s1093
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm
+c0000000050834480000000000000009D
+t1350780032
+s157
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm
+c000000005093FAC400000000000011C1
+t1351875268
+s4545
+
+N/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiPhone_iphonesimulator_Debug.a
+c000000005093FAFC0000000002063B30
+t1351875324
+s33962800
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.pth
+t2
+s0
+
+Nofxiphone-Info.plist
+c00000000508344C20000000000000445
+t1350780098
+s1093
+
+CBuild AST from /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm
+r0
+
+CBuild AST from /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese36c3a7c3244b641^2e575f7c3244b641^-110"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'ofxiphone-Info.plist'.1(21%IDEActivityLogMessage2@109"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'ofxiphone-Info.plist'.-373568124#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"F302A39F-43E7-4F00-AAFD-1ABA39CE5911-
+
+CCompileC build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373568125.886076
+e373568129.287422
+r1
+xCompileC
+xbuild/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.o
+x/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm0308e37d3244b641^48a64f813244b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm0000000000000000^5578"CompileC build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.o src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=3.1 -iquote /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/DerivedSources -F/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.dia -c /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/main.mm -o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/main.o36"39BD0CDC-9C14-4A7F-A8A2-0F89993682C3-
+
+CCompileC build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373568125.886074
+e373568129.319974
+r1
+xCompileC
+xbuild/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.o
+x/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm9a08e37d3244b641^3e205c813244b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm0000000000000000^5596"CompileC build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.o src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=3.1 -iquote /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/DerivedSources -F/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.dia -c /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/src/testApp.mm -o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/testApp.o36"11D74011-85FC-4214-B41D-A1D32E6B4946-
+
+CCopyPlistFile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/ofxiphone-Info.plist ofxiphone-Info.plist
+s373568124.618726
+e373568124.727024
+r1
+xCopyPlistFile
+x/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/ofxiphone-Info.plist
+xofxiphone-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Copy ofxiphone-Info.plist10919e7c3244b641^8928ba7c3244b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist0000000000000000^635"CopyPlistFile build/Debug-iphonesimulator/videoGrabberExample.app/ofxiphone-Info.plist ofxiphone-Info.plist    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app -- ofxiphone-Info.plist36"96E0132B-68C8-403F-98B0-13943A396B83-
+
+CCpResource ../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig build/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig
+s373568124.730054
+e373568124.765076
+r1
+xCpResource
+x../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+xbuild/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig761cbb7c3244b641^3eeac37c3244b641^---0#0#0#-19%DVTDocumentLocation2@183"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig000000000080d041^1001"CpResource ../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig build/Debug-iphonesimulator/videoGrabberExample.app/CoreOF.xcconfig    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app36"032D41F4-AB07-4BFE-A862-3C4E5828D524-
+
+CCpResource Project.xcconfig build/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfig
+s373568124.619307
+e373568124.732107
+r1
+xCpResource
+xProject.xcconfig
+xbuild/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfig
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfigf8a99e7c3244b641^1a6bbb7c3244b641^---0#0#0#-19%DVTDocumentLocation2@184"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfig000000000080d041^906"CpResource Project.xcconfig build/Debug-iphonesimulator/videoGrabberExample.app/Project.xcconfig    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/Project.xcconfig /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app36"56B07C59-6C8F-45B3-9AE1-CBB073CD2DAE-
+
+CGenerateDSYMFile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app.dSYM /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample
+r0
+
+CLd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample normal i386
+s373568129.326941
+e373568133.944087
+r0
+xLd
+x/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample
+xnormal
+xi386
+old: warning: ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)
+old: warning: ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)
+oUndefined symbols for architecture i386:
+o  "ofiPhoneVideoGrabber::ofiPhoneVideoGrabber()", referenced from:
+o      ofVideoGrabber::initGrabber(int, int, bool) in libofxiPhone_iphonesimulator_Debug.a(ofVideoGrabber.o)
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Link /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample67d553813244b641^feb8f1853244b641^-666"ld: warning: ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)ld: warning: ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)Undefined symbols for architecture i386:  "ofiPhoneVideoGrabber::ofiPhoneVideoGrabber()", referenced from:      ofVideoGrabber::initGrabber(int, int, bool) in libofxiPhone_iphonesimulator_Debug.a(ofVideoGrabber.o)ld: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)6(21%IDEActivityLogMessage2@156"Ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)-373568130#0#170#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@140"Ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)-373568130#170#154#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@64""ofiPhoneVideoGrabber::ofiPhoneVideoGrabber()", referenced from:-373568133#365#67#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@101"OfVideoGrabber::initGrabber(int, int, bool) in libofxiPhone_iphonesimulator_Debug.a(ofVideoGrabber.o)-373568133#432#108#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-373568133#540#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-373568133#586#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--2389"Ld build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample normal i386    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator -F/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator -filelist /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Objects-normal/i386/videoGrabberExample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC ../../../libs/freetype/lib/ios/freetype.a ../../../libs/FreeImage/lib/osx/freeimage.a ../../../libs/FreeImage/lib/ios/freeimage.a ../../../libs/glew/lib/osx/glew.a ../../../libs/poco/lib/ios/PocoFoundation.a ../../../libs/poco/lib/ios/PocoData.a ../../../libs/poco/lib/ios/PocoNet.a ../../../libs/poco/lib/ios/PocoXML.a ../../../libs/poco/lib/ios/PocoZip.a ../../../libs/poco/lib/ios/PocoUtil.a ../../../libs/tess2/lib/ios/tess2.a ../../../libs/glu/lib/ios/glu.a ../../../libs/glu/lib/ios/glu-ios.a -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=3.1 /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiPhone_iphonesimulator_Debug.a -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AudioToolbox -framework OpenAL -framework CoreLocation -framework CoreGraphics -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework MapKit -o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/videoGrabberExample36"3622DA15-2D89-481C-9020-30D51956DFEE-
+
+CPhaseScriptExecution "Run Script" /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh
+r0
+
+CProcessInfoPlistFile /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Info.plist ofxiphone-Info.plist
+s373568124.434485
+e373568124.609215
+r1
+xProcessInfoPlistFile
+x/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Info.plist
+xofxiphone-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process ofxiphone-Info.plist22ab6f7c3244b641^d3159c7c3244b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist0000000000000000^857"ProcessInfoPlistFile build/Debug-iphonesimulator/videoGrabberExample.app/Info.plist ofxiphone-Info.plist    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ofxiphone-Info.plist -genpkginfo /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app/Info.plist36"90A44E10-B662-443E-B8F8-71A93ABAB9A6-
+
+CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/videoGrabberExample-gjomzlwugvvdroejjockcgykrxbn/Index/PrecompiledHeaders/iPhone_Prefix-hehpxayyqfwzxtdizetrmoggztzc_ast/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373568124.774129
+e373568125.878596
+r1
+xProcessPCH++
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.pth
+xiPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile iPhone_Prefix.pchd061c67c3244b641^97c9e87d3244b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch0000000000000000^5341"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=3.1 -iquote /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphonesimulator/videoGrabberExample.build/DerivedSources -F/Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.dia -c /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-edwyaicayjpsccehtrijgcuautnc/iPhone_Prefix.pch.d36"8B3DBD1A-0546-4402-A5D0-9817F0E38A35-
+
+CTouch /Users/johanndiedrick/Documents/OpenFrameworks/of_v0072_ios_release/apps/myApps/videoGrabberExample/build/Debug-iphonesimulator/videoGrabberExample.app
+r0
+
