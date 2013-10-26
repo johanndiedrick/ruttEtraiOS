@@ -119,4 +119,5 @@ dependencies: \
   ../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.h \
   ../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.h \
   ../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.h \
-  ../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitListener.h
+  ../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitListener.h \
+  src/finger.h

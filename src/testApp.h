@@ -3,6 +3,7 @@
 #include "ofMain.h"
 #include "ofxiPhone.h"
 #include "ofxiPhoneExtras.h"
+#include "finger.h"
 
 class testApp : public ofxiPhoneApp{
 	
@@ -23,6 +24,8 @@ class testApp : public ofxiPhoneApp{
         void gotMemoryWarning();
         void deviceOrientationChanged(int newOrientation);
 		
+        ofVideoGrabber frontCamera;
+        ofVideoGrabber  backCamera;
 		ofVideoGrabber grabber;
 		ofTexture tex;
 		unsigned char * pix;
@@ -38,5 +41,11 @@ class testApp : public ofxiPhoneApp{
     
     int grabber_w;
     int grabber_h;
+    bool front_camera;
+    
+    vector<Finger> fingers;
+    
+    float distance;
+    int distInt;
 
 };
